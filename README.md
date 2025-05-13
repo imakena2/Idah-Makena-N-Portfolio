@@ -2,11 +2,9 @@
 
 Welcome to the official portfolio website of **Idah Makena Ncooro** – IT Service Desk & Monitoring Specialist. This website showcases my professional journey, technical skills, and projects.
 
-![Open Graph Image](https://lovable.dev/opengraph-image-p98pqg.png)
-
 ## 🌐 Live Preview
 
-👉 [View Live Portfolio](https://lovable.dev/projects/326bb1d4-1e2e-4638-b004-ad475d412d6a)
+👉 [View Live Portfolio](https://imakena2.github.io/Idah-Makena-N-Portfolio/)
 
 ## 🧾 Description
 
